@@ -55,7 +55,7 @@
 
 <div align=center>
   <a href="https://www.linkedin.com/in/harry-salazar-palermo-1b4882236/" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="portfolio-harry"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=gray&logoColor=FFFFFF&label=" alt="Portfolio" target="blank"/></a>
+  <a href="Portfolio"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=gray&logoColor=FFFFFF&label=" alt="Portfolio" target="blank"/></a>
   <a href="mailto:harrysalazar2do@gmail.com?Subject=Aquí%20el%20asunto%20del%20mail"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" target="blank"/></a>
 </div>
 
